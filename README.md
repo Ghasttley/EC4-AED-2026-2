@@ -7,7 +7,7 @@
 | Azul Arbulú Silva | 202510303 |
 | Kiara Luz Rojas Meza | 202510620 |
 
-> **Note**: Este repositorio contiene los archivos de los *cpp's* subidos en el *Canvas*.
+> **Nota**: Este repositorio contiene los archivos de los *cpp's* subidos en el *Canvas*.
 
 ---
 

@@ -1,4 +1,4 @@
-## Evaluación Continua 4: Algoritmos y Estructuras de datos
+## Evaluación Continua 4: Algoritmos y Estructuras de Datos (2026-2)
 
 **Datos personales:**
 
@@ -6,6 +6,10 @@
 |:------------:|:------------:|
 | Azul Arbulú Silva | 202510303 |
 | Kiara Luz Rojas Meza | 202510620 |
+
+**Curso**: (CS2023) Algoritmos y Estructuras de Datos.\
+**Docente**: Victor Racso Galvan Oyola.\
+**Ciclo**: 2026-2.
 
 > **Nota**: Este repositorio contiene los archivos de los *cpp's* subidos en el *Canvas*.
 

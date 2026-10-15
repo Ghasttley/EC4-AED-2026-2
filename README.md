@@ -11,20 +11,21 @@
 **Docente**: Victor Racso Galvan Oyola.\
 **Ciclo**: 2026-2.
 
-> **Nota**: Este repositorio contiene los archivos de los *cpp's* subidos en el *Canvas*.
+> **Nota**: Este repositorio contiene los archivos de los *cpp's* subidos en el *Canvas* y las propuestas de implementación de los problemas de *Codeforces* (lejos de ser todos aún).
 
 ---
 
 ### Estructura del repositorio
 
 ```
-# Contenido actualizado el 12/10/2026
+# Contenido actualizado el 15/10/2026
 ├── AVL/
 |   ├── AVL.cpp
 |   ├── alturas_en_un_avl.cpp
 |   ├── rotaciones_a_mano.cpp
-|   └── es_un_avl.cpp
-├── .gitignore # excluye la carpeta .vscode con la configuración
+|   ├── es_un_avl.cpp
+|   └──  F.cpp
+├── .gitignore # excluye la carpeta .vscode con la configuración y los ejercicios no terminados de probar
 └── README.cpp
 ```
 
